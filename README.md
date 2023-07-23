@@ -1,6 +1,6 @@
-# Vite + TypeScript test project
+# TypeScript + Vite Project Template
 
-This project is intended to test Vite + TS automatic deployment on GitHub pages.
+Simple TypeScript project template with Vite as build tool and action for automatic deployment on GitHub pages.
 
 ## References
 
